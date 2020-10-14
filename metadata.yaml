@@ -1,6 +1,9 @@
 _repo: Methods-Aims-in-Archaeology_63311
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Methods and Aims in Archaeology
+covers:
+- cover_type: archival
+  image_path: 63311-h/images/cover.jpg
 creator:
   author:
     agent_name: Petrie, W. M. Flinders (William Matthew Flinders)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2454
     wikipedia: https://en.wikipedia.org/wiki/William_Matthew_Flinders_Petrie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63311#Methods-Aims-in-Archaeology
 gutenberg_issued: '2020-09-26'
 gutenberg_type: Text
 identifiers:
